@@ -8,6 +8,10 @@ const quotes = [
     author: "Thomas Edison",
   },
   {
+    text: "Every villain is a hero in his own mind.",
+    author: "Tom Hiddleston",
+  },
+  {
     text: "You can observe a lot just by watching.",
     author: "Yogi Berra",
   },
