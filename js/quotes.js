@@ -24,6 +24,10 @@ const quotes = [
     author: "Byron Pulsifer",
   },
   {
+    text: "Love the life you live. Live the life you love.",
+    author: "Bob Marley",
+  },
+  {
     text: "Be the chief but never the lord.",
     author: "Lao Tzu",
   },
